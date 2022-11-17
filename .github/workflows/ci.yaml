@@ -1,0 +1,31 @@
+name: Verify
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  verify:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+           repository: 'Azure-Samples/Cognitive-Speech-TTS'
+           path: 'tts'
+      - uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '3.1.x'
+      - name: Verify lexicon file
+        shell: pwsh
+        run: |
+          $result=$(.\tts\CustomLexiconValidation\CustomLexiconValidation.exe -CustomLexiconFilePath .\lexicon.xml -LogFile "log.txt")
+          if($result -notlike "*Custom lexicon file format is correct. Please use it through SSML.*"){
+            $result=$(cat ".\log.txt")
+            throw $result
+          }else{
+            echo $result
+          }

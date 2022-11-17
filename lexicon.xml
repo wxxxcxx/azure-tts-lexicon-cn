@@ -5,12 +5,12 @@
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
-  alphabet="x-microsoft-sapi"
+  alphabet="sapi"
   xml:lang="zh-CN"
 >
   <lexeme>
     <grapheme>一会儿</grapheme>
-    <phoneme>yi 2 - hui r 4</phoneme>
+    <phoneme>yi 2 hui er 4</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>朱重八</grapheme>
