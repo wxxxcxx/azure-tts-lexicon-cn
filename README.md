@@ -1,2 +1,4 @@
 # azure-tts-lexicon-cn
-Chinese Lexicon for Azure Text to Speech Service.
+
+适用于 Azure Text to Speech 服务的简体中文词典。
+
