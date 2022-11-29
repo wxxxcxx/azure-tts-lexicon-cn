@@ -8,18 +8,20 @@
   alphabet="sapi"
   xml:lang="zh-CN"
 >
+  <!--C-->
   <lexeme>
-    <grapheme>重重</grapheme>
-    <phoneme>zhong 4 zhong 4</phoneme>
+    <grapheme>重重地</grapheme>
+    <phoneme>zhong 4 zhong 4 de</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>朱重八</grapheme>
     <phoneme>zhu 1 chong 2 ba 1</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>沉着脸</grapheme>
-    <phoneme>chen 2 zhe 5 lian 3</phoneme>
+    <grapheme>重瞳</grapheme>
+    <phoneme>chong 2 tong 3</phoneme>
   </lexeme>
+  <!--K-->
   <lexeme>
     <grapheme>咳咳</grapheme>
     <phoneme>ke 2 ke 2</phoneme>
@@ -28,8 +30,9 @@
     <grapheme>咳咳咳</grapheme>
     <phoneme>ke 2 ke 2 ke 2</phoneme>
   </lexeme>
+  <!--Z-->
   <lexeme>
-    <grapheme>重瞳</grapheme>
-    <phoneme>chong 2 tong 3</phoneme>
+    <grapheme>沉着脸</grapheme>
+    <phoneme>chen 2 zhe 5 lian 3</phoneme>
   </lexeme>
 </lexicon>
