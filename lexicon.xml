@@ -8,9 +8,7 @@
   alphabet="sapi"
   xml:lang="zh-CN"
 >
-  <!--AzureTTS 多音字字典
-    字典原则上尽量不影响原正常音节，如：
-  -->
+  <!--AzureTTS 多音字字典，1234分别为平升转降，5为轻声 -->
   <!--C-->
   <lexeme>
     <grapheme>朱重八</grapheme>
