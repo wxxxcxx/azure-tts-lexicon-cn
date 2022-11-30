@@ -22,6 +22,10 @@
     <grapheme>藏人</grapheme>
     <phoneme>cang 2 ren 2</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>重头</grapheme>
+    <phoneme>chong 2 tou 2</phoneme>
+  </lexeme>
   <!--G-->
   <lexeme>
     <grapheme>各宗门</grapheme>
@@ -36,6 +40,16 @@
     <grapheme>咳咳咳</grapheme>
     <phoneme>ke 2 ke 2 ke 2</phoneme>
   </lexeme>
+  <!--M-->
+  <lexeme>
+    <grapheme>麻了</grapheme>
+    <phoneme>ma 2 le</phoneme>
+  </lexeme>
+  <!--X-->
+  <lexeme>
+    <grapheme>行了</grapheme>
+    <phoneme>chen 2 zhe 5 lian 3</phoneme>
+  </lexeme> 
   <!--Z-->
   <lexeme>
     <grapheme>沉着脸</grapheme>
