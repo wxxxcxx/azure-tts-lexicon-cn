@@ -40,6 +40,15 @@
     <grapheme>咳咳咳</grapheme>
     <phoneme>ke 2 ke 2 ke 2</phoneme>
   </lexeme>
+  <!--L-->
+  <lexeme>
+    <grapheme>大概率</grapheme>
+    <phoneme>da 4 gai 4 lv 4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>小概率</grapheme>
+    <phoneme>xiao 3 gai 4 lv 4</phoneme>
+  </lexeme>
   <!--M-->
   <lexeme>
     <grapheme>麻了</grapheme>
