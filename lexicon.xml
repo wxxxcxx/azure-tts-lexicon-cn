@@ -24,6 +24,10 @@
     <grapheme>藏人</grapheme>
     <phoneme>cang 2 ren 2</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>重头</grapheme>
+    <phoneme>chong 2 tou 2</phoneme>
+  </lexeme>
   <!--D-->
   <!--E-->
   <!--F-->
@@ -35,6 +39,10 @@
   <lexeme>
     <grapheme>各宗门</grapheme>
     <phoneme>ge 4 zong 1 men 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>咯咯咯</grapheme>
+    <phoneme>ge 1 ge 1 ge 1</phoneme>
   </lexeme>
   <!--H-->
   <lexeme>
@@ -53,6 +61,24 @@
     <phoneme>ke 2 ke 2 ke 2</phoneme>
   </lexeme>
   <!--L-->
+  <lexeme>
+    <grapheme>大概率</grapheme>
+    <phoneme>da 4 gai 4 lv 4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>小概率</grapheme>
+    <phoneme>xiao 3 gai 4 lv 4</phoneme>
+  </lexeme>
+  <!--M-->
+  <lexeme>
+    <grapheme>麻了</grapheme>
+    <phoneme>ma 2 le</phoneme>
+  </lexeme>
+  <!--X-->
+  <lexeme>
+    <grapheme>行了</grapheme>
+    <phoneme>xing 2 le 5</phoneme>
+  </lexeme> 
   <!--M-->
   <!--N-->
   <!--O-->
