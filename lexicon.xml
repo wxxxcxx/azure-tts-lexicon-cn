@@ -9,6 +9,8 @@
   xml:lang="zh-CN"
 >
   <!--AzureTTS 多音字字典，1234分别为平升转降，5为轻声 -->
+  <!--A-->
+  <!--B-->
   <!--C-->
   <lexeme>
     <grapheme>朱重八</grapheme>
@@ -26,7 +28,14 @@
     <grapheme>重头</grapheme>
     <phoneme>chong 2 tou 2</phoneme>
   </lexeme>
+  <!--D-->
+  <!--E-->
+  <!--F-->
   <!--G-->
+  <lexeme>
+    <grapheme>四更天</grapheme>
+    <phoneme>si 4 geng 1 tian 1</phoneme>
+  </lexeme>
   <lexeme>
     <grapheme>各宗门</grapheme>
     <phoneme>ge 4 zong 1 men 2</phoneme>
@@ -35,6 +44,13 @@
     <grapheme>咯咯咯</grapheme>
     <phoneme>ge 1 ge 1 ge 1</phoneme>
   </lexeme>
+  <!--H-->
+  <lexeme>
+    <grapheme>布行</grapheme>
+    <phoneme>bu 4 hang 2</phoneme>
+  </lexeme>
+  <!--I-->
+  <!--J-->
   <!--K-->
   <lexeme>
     <grapheme>咳咳</grapheme>
@@ -63,9 +79,30 @@
     <grapheme>行了</grapheme>
     <phoneme>xing 2 le 5</phoneme>
   </lexeme> 
+  <!--M-->
+  <!--N-->
+  <!--O-->
+  <!--P-->
+  <!--Q-->
+  <!--R-->
+  <!--S-->
+  <!--T-->
+  <!--U-->
+  <!--V-->
+  <!--W-->
+  <!--X-->
+  <!--Y-->
   <!--Z-->
   <lexeme>
     <grapheme>沉着脸</grapheme>
     <phoneme>chen 2 zhe 5 lian 3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>长公主</grapheme>
+    <phoneme>zhang 3 gong 1 zhu 3</phoneme>
+  </lexeme>
+    <lexeme>
+    <grapheme>山长</grapheme>
+    <phoneme>shan 1 zhang 3</phoneme>
   </lexeme>
 </lexicon>
