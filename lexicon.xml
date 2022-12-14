@@ -113,8 +113,12 @@
     <grapheme>长公主</grapheme>
     <phoneme>zhang 3 gong 1 zhu 3</phoneme>
   </lexeme>
-    <lexeme>
+  <lexeme>
     <grapheme>山长</grapheme>
     <phoneme>shan 1 zhang 3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>唐玄奘</grapheme>
+    <phoneme>tang 2 xuan 2 zang 4</phoneme>
   </lexeme>
 </lexicon>
