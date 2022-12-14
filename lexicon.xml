@@ -49,6 +49,10 @@
     <grapheme>布行</grapheme>
     <phoneme>bu 4 hang 2</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>干一行爱一行</grapheme>
+    <phoneme>gan 4 yi 4 hang 2 ai 4 yi 4 hang 2</phoneme>
+  </lexeme> 
   <!--I-->
   <!--J-->
   <!--K-->
@@ -74,12 +78,6 @@
     <grapheme>麻了</grapheme>
     <phoneme>ma 2 le</phoneme>
   </lexeme>
-  <!--X-->
-  <lexeme>
-    <grapheme>行了</grapheme>
-    <phoneme>xing 2 le 5</phoneme>
-  </lexeme> 
-  <!--M-->
   <!--N-->
   <!--O-->
   <!--P-->
@@ -91,6 +89,10 @@
   <!--V-->
   <!--W-->
   <!--X-->
+  <lexeme>
+    <grapheme>行了</grapheme>
+    <phoneme>xing 2 le 5</phoneme>
+  </lexeme>
   <!--Y-->
   <!--Z-->
   <lexeme>
