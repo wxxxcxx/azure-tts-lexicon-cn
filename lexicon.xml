@@ -100,7 +100,7 @@
   <!--M-->
   <lexeme>
     <grapheme>麻了</grapheme>
-    <phoneme>ma 2 le</phoneme>
+    <phoneme>ma 2 le 5</phoneme>
   </lexeme>
   <!--X-->
   <lexeme>
@@ -123,6 +123,10 @@
   <!--V-->
   <!--W-->
   <!--X-->
+  <lexeme>
+    <grapheme>行了</grapheme>
+    <phoneme>xing 2 le 5</phoneme>
+  </lexeme>
   <!--Y-->
   <lexeme>
     <grapheme>女乐</grapheme>
