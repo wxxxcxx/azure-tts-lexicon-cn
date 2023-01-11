@@ -28,6 +28,14 @@
     <grapheme>重头</grapheme>
     <phoneme>chong 2 tou 2</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>重复</grapheme>
+    <phoneme>chong 2 fu 4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>朱厚熜</grapheme>
+    <phoneme>zhu 1 hou 4 cong 1</phoneme>
+  </lexeme>
   <!--D-->
   <!--E-->
   <!--F-->
@@ -53,6 +61,22 @@
     <grapheme>干一行爱一行</grapheme>
     <phoneme>gan 4 yi 4 hang 2 ai 4 yi 4 hang 2</phoneme>
   </lexeme> 
+  <lexeme>
+    <grapheme>还着礼</grapheme>
+    <phoneme>huan 2 zhe 5 li 3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>还口</grapheme>
+    <phoneme>huan 2 kou 3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>秦桧</grapheme>
+    <phoneme>qin 2 hui 4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>老本行</grapheme>
+    <phoneme>lao 3 ben 3 hang 2</phoneme>
+  </lexeme>
   <!--I-->
   <!--J-->
   <!--K-->
@@ -76,7 +100,7 @@
   <!--M-->
   <lexeme>
     <grapheme>麻了</grapheme>
-    <phoneme>ma 2 le</phoneme>
+    <phoneme>ma 2 le 5</phoneme>
   </lexeme>
   <!--N-->
   <!--O-->
@@ -93,7 +117,19 @@
     <grapheme>行了</grapheme>
     <phoneme>xing 2 le 5</phoneme>
   </lexeme>
+  <lexeme>
+    <grapheme>行者</grapheme>
+    <phoneme>xing 2 zhe 3</phoneme>
+  </lexeme> 
   <!--Y-->
+  <lexeme>
+    <grapheme>女乐</grapheme>
+    <phoneme>nv 3 yue 4</phoneme>
+  </lexeme>
+   <lexeme>
+    <grapheme>不能自已</grapheme>
+    <phoneme>bu 4 neng 2 zi 4 yi 3</phoneme>
+  </lexeme>
   <!--Z-->
   <lexeme>
     <grapheme>沉着脸</grapheme>
@@ -103,8 +139,24 @@
     <grapheme>长公主</grapheme>
     <phoneme>zhang 3 gong 1 zhu 3</phoneme>
   </lexeme>
-    <lexeme>
+  <lexeme>
     <grapheme>山长</grapheme>
     <phoneme>shan 1 zhang 3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>李善长</grapheme>
+    <phoneme>li 3 shan 4 chang 2</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>唐玄奘</grapheme>
+    <phoneme>tang 2 xuan 2 zang 4</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>兵种</grapheme>
+    <phoneme>bing 1 zhong 3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>重重有赏</grapheme>
+    <phoneme>zhong 4 zhong 4 you 3 shang 3</phoneme>
   </lexeme>
 </lexicon>
